@@ -6,7 +6,7 @@ unsigned int length(char str[]) {
 	for(int i = 0; 	str[i] != '\0'; i++){
 		count++;
 	}
-	return count;
+	return count;   
 }
 
 unsigned int find(char str[], char character) {
