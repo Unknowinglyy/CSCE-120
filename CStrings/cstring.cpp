@@ -8,6 +8,7 @@ unsigned int length(char str[]) {
 	}
 	return count;
 }
+  //comment
 
 unsigned int find(char str[], char character) {
   // returns 
